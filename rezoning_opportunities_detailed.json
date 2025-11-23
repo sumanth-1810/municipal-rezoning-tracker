@@ -1,0 +1,327 @@
+[
+  {
+    "corridor": "North Tryon Street",
+    "total_score": 118,
+    "avg_score": 59.0,
+    "num_mentions": 2,
+    "timeline": "unspecified",
+    "documents": [
+      {
+        "name": "Charlotte 2040 Comprehensive Plan Update - Q4 2024",
+        "date": "2024-10-15",
+        "score": 100
+      },
+      {
+        "name": "Unified Development Ordinance Amendment Package 2024-08",
+        "date": "2024-09-20",
+        "score": 18
+      }
+    ],
+    "evidence": [
+      "...ional mobility goals. The following strategic corridor areas have been identified for transformation over the next 15 years: North Tryon Street Corridor: The area along North Tryon Street from uptown to University City represents a critical transit-oriented development opportunity....",
+      "...c corridor areas have been identified for transformation over the next 15 years: North Tryon Street Corridor: The area along North Tryon Street from uptown to University City represents a critical transit-oriented development opportunity. The city will promote mixed-use devel...",
+      "...rts district strategy, staff proposes extending NoDa zoning provisions to include properties along 36th Street from North Davidson to North Tryon Street. This would promote mixed-use development with arts/creative space requirements and encourage the district's organic growth northward...."
+    ]
+  },
+  {
+    "corridor": "Independence Boulevard",
+    "total_score": 91,
+    "avg_score": 91.0,
+    "num_mentions": 1,
+    "timeline": "unspecified",
+    "documents": [
+      {
+        "name": "Unified Development Ordinance Amendment Package 2024-08",
+        "date": "2024-09-20",
+        "score": 91
+      }
+    ],
+    "evidence": [
+      "...nfrastructure investment and is ripe for transformation from auto-oriented commercial to walkable mixed-use development. The Independence Boulevard corridor between downtown and Matthews has been studied extensively and shows strong redevelopment potential. Current zoning does not reflect...",
+      "...(Transit-Oriented Development - Mixed Use) overlay to include properties within 1/2 mile of planned Bus Rapid Transit stations along Independence Boulevard. This strategic corridor has seen significant infrastructure investment and is ripe for transformation from auto-oriented commercial to walka..."
+    ]
+  },
+  {
+    "corridor": "Central Avenue",
+    "total_score": 62,
+    "avg_score": 31.0,
+    "num_mentions": 2,
+    "timeline": "immediate",
+    "documents": [
+      {
+        "name": "Charlotte 2040 Comprehensive Plan Update - Q4 2024",
+        "date": "2024-10-15",
+        "score": 33
+      },
+      {
+        "name": "Charlotte Planning Commission Agenda - October 2024",
+        "date": "2024-10-18",
+        "score": 29
+      }
+    ],
+    "evidence": [
+      "...Planning Commission Meeting Agenda Item 5: Area Plan Updates - Staff Presentation Central Avenue Vision Plan Refresh Staff presented updates to the Central Avenue Vision Plan, originally adopted in 2017. The corridor from...",
+      "...Item 5: Area Plan Updates - Staff Presentation Central Avenue Vision Plan Refresh Staff presented updates to the Central Avenue Vision Plan, originally adopted in 2017. The corridor from uptown to Eastway Drive continues to see strong development interest. Key...",
+      "...affordable housing components and neighborhood-serving retail. Eastway Drive Corridor: A long-term priority area, Eastway Drive from Central Avenue to Albemarle Road has been identified for potential corridor improvements and strategic land use changes. This area is appropriate fo..."
+    ]
+  },
+  {
+    "corridor": "Central",
+    "total_score": 52,
+    "avg_score": 52.0,
+    "num_mentions": 1,
+    "timeline": "immediate",
+    "documents": [
+      {
+        "name": "Charlotte Planning Commission Agenda - October 2024",
+        "date": "2024-10-18",
+        "score": 52
+      }
+    ],
+    "evidence": [
+      "...Planning Commission Meeting Agenda Item 5: Area Plan Updates - Staff Presentation Central Avenue Vision Plan Refresh Staff presented updates to the Central Avenue Vision Plan, originally adopted in 2017. The corrid...",
+      "...Item 5: Area Plan Updates - Staff Presentation Central Avenue Vision Plan Refresh Staff presented updates to the Central Avenue Vision Plan, originally adopted in 2017. The corridor from uptown to Eastway Drive continues to see strong development interest...."
+    ]
+  },
+  {
+    "corridor": "The Independence Boulevard",
+    "total_score": 48,
+    "avg_score": 48.0,
+    "num_mentions": 1,
+    "timeline": "unspecified",
+    "documents": [
+      {
+        "name": "Unified Development Ordinance Amendment Package 2024-08",
+        "date": "2024-09-20",
+        "score": 48
+      }
+    ],
+    "evidence": [
+      "...nt infrastructure investment and is ripe for transformation from auto-oriented commercial to walkable mixed-use development. The Independence Boulevard corridor between downtown and Matthews has been studied extensively and shows strong redevelopment potential. Current zoning does not reflect..."
+    ]
+  },
+  {
+    "corridor": "West Trade Street",
+    "total_score": 47,
+    "avg_score": 47.0,
+    "num_mentions": 1,
+    "timeline": "unspecified",
+    "documents": [
+      {
+        "name": "Charlotte 2040 Comprehensive Plan Update - Q4 2024",
+        "date": "2024-10-15",
+        "score": 47
+      }
+    ],
+    "evidence": [
+      "...nities. Infrastructure investments including sewer expansion and sidewalk improvements are scheduled for 2025-2026. West Trade Street Corridor: Recent private investment signals strong market interest in the West Trade Street area between downtown and the airport. The city w...",
+      "...scheduled for 2025-2026. West Trade Street Corridor: Recent private investment signals strong market interest in the West Trade Street area between downtown and the airport. The city will consider rezoning to allow mixed-use development with ground-floor retail and upper-stor..."
+    ]
+  },
+  {
+    "corridor": "West Morehead Street Zoning Study\n        \n        The West Morehead Street",
+    "total_score": 43,
+    "avg_score": 43.0,
+    "num_mentions": 1,
+    "timeline": "immediate",
+    "documents": [
+      {
+        "name": "Unified Development Ordinance Amendment Package 2024-08",
+        "date": "2024-09-20",
+        "score": 43
+      }
+    ],
+    "evidence": [
+      "...is priority area. Immediate action is recommended to encourage development before land values escalate further. Amendment B: West Morehead Street Zoning Study The West Morehead Street area from I-77 to Freedom Drive will undergo a comprehensive master plan update beginning in January 2025. This study will evaluate opportuni..."
+    ]
+  },
+  {
+    "corridor": "Eastway",
+    "total_score": 36,
+    "avg_score": 36.0,
+    "num_mentions": 1,
+    "timeline": "immediate",
+    "documents": [
+      {
+        "name": "Charlotte Planning Commission Agenda - October 2024",
+        "date": "2024-10-18",
+        "score": 36
+      }
+    ],
+    "evidence": [
+      "...into mixed-use projects Commissioner feedback emphasized the need for immediate rezoning along The Plaza between Central and Eastway to prevent incompatible development and capture near-term opportunities. Item 7: Mobility Investment Updates Transp...",
+      "...n Refresh Staff presented updates to the Central Avenue Vision Plan, originally adopted in 2017. The corridor from uptown to Eastway Drive continues to see strong development interest. Key recommendations include: - Extend TOD zoning principles to side stre..."
+    ]
+  },
+  {
+    "corridor": "Eastland",
+    "total_score": 36,
+    "avg_score": 36.0,
+    "num_mentions": 1,
+    "timeline": "unspecified",
+    "documents": [
+      {
+        "name": "Charlotte-Mecklenburg Planning Department Annual Report 2024",
+        "date": "2024-12-01",
+        "score": 36
+      }
+    ],
+    "evidence": [
+      "...a comprehensive area study to establish a cohesive vision before individual petitions create piecemeal development patterns. Eastland Area Reimagining: Following demolition of the mall, the broader Eastland area (bounded by Central Avenue, Albemarle Road, and Eastway Drive)...",
+      "...individual petitions create piecemeal development patterns. Eastland Area Reimagining: Following demolition of the mall, the broader Eastland area (bounded by Central Avenue, Albemarle Road, and Eastway Drive) represents Charlotte's most significant urban redevelopment oppor..."
+    ]
+  },
+  {
+    "corridor": "Albemarle Road",
+    "total_score": 33,
+    "avg_score": 33.0,
+    "num_mentions": 1,
+    "timeline": "long_term",
+    "documents": [
+      {
+        "name": "Charlotte 2040 Comprehensive Plan Update - Q4 2024",
+        "date": "2024-10-15",
+        "score": 33
+      }
+    ],
+    "evidence": [
+      "...nts and neighborhood-serving retail. Eastway Drive Corridor: A long-term priority area, Eastway Drive from Central Avenue to Albemarle Road has been identified for potential corridor improvements and strategic land use changes. This area is appropriate for moderate-density residen..."
+    ]
+  },
+  {
+    "corridor": "Matthews",
+    "total_score": 28,
+    "avg_score": 28.0,
+    "num_mentions": 1,
+    "timeline": "immediate",
+    "documents": [
+      {
+        "name": "Charlotte Planning Commission Agenda - October 2024",
+        "date": "2024-10-18",
+        "score": 28
+      }
+    ],
+    "evidence": [
+      "...or. Preliminary engineering in 2025, with potential service by 2028. Monroe Road Corridor: The section from Wendover Road to Matthews is being evaluated for road diet and mixed-use development potential. Current zoning does not align with the city's vision for this a..."
+    ]
+  },
+  {
+    "corridor": "Wendover Road",
+    "total_score": 28,
+    "avg_score": 28.0,
+    "num_mentions": 1,
+    "timeline": "immediate",
+    "documents": [
+      {
+        "name": "Charlotte Planning Commission Agenda - October 2024",
+        "date": "2024-10-18",
+        "score": 28
+      }
+    ],
+    "evidence": [
+      "...along the corridor. Preliminary engineering in 2025, with potential service by 2028. Monroe Road Corridor: The section from Wendover Road to Matthews is being evaluated for road diet and mixed-use development potential. Current zoning does not align with the city's visio..."
+    ]
+  },
+  {
+    "corridor": "Park Road",
+    "total_score": 26,
+    "avg_score": 26.0,
+    "num_mentions": 1,
+    "timeline": "unspecified",
+    "documents": [
+      {
+        "name": "Charlotte Planning Commission Agenda - October 2024",
+        "date": "2024-10-18",
+        "score": 26
+      }
+    ],
+    "evidence": [
+      "...t land use patterns: Scaleybark Road Improvements: Road widening and complete streets implementation from South Boulevard to Park Road. Construction begins 2025. This investment creates opportunities for corridor development between two successful transit-oriented areas...."
+    ]
+  },
+  {
+    "corridor": "South Boulevard",
+    "total_score": 26,
+    "avg_score": 26.0,
+    "num_mentions": 1,
+    "timeline": "unspecified",
+    "documents": [
+      {
+        "name": "Charlotte Planning Commission Agenda - October 2024",
+        "date": "2024-10-18",
+        "score": 26
+      }
+    ],
+    "evidence": [
+      "...will impact land use patterns: Scaleybark Road Improvements: Road widening and complete streets implementation from South Boulevard to Park Road. Construction begins 2025. This investment creates opportunities for corridor development between two successful transit-oriente..."
+    ]
+  },
+  {
+    "corridor": "Statesville\n        Road",
+    "total_score": 23,
+    "avg_score": 23.0,
+    "num_mentions": 1,
+    "timeline": "unspecified",
+    "documents": [
+      {
+        "name": "Charlotte City Council Strategic Planning Session Minutes",
+        "date": "2024-11-05",
+        "score": 23
+      }
+    ],
+    "evidence": [
+      "...tive position in attracting advanced manufacturing. Statesville Road Corridor: The area near the former Eastland Mall site and along Statesville Road to I-85 should be evaluated for comprehensive rezoning. Current B-2 zoning is outdated and does not reflect the area's potential for mixed-us..."
+    ]
+  },
+  {
+    "corridor": "Sharon Amity Road",
+    "total_score": 23,
+    "avg_score": 23.0,
+    "num_mentions": 1,
+    "timeline": "immediate",
+    "documents": [
+      {
+        "name": "Charlotte Planning Commission Agenda - October 2024",
+        "date": "2024-10-18",
+        "score": 23
+      }
+    ],
+    "evidence": [
+      "...(Pecan Avenue, The Plaza) to capture spillover development demand - Encourage development along Briar Creek from Central Avenue to Sharon Amity Road - Support transformation of aging retail centers into mixed-use projects Commissioner feedback emphasized the need for immed..."
+    ]
+  },
+  {
+    "corridor": "Scaleybark",
+    "total_score": 23,
+    "avg_score": 23.0,
+    "num_mentions": 1,
+    "timeline": "long_term",
+    "documents": [
+      {
+        "name": "Charlotte-Mecklenburg Planning Department Annual Report 2024",
+        "date": "2024-12-01",
+        "score": 23
+      }
+    ],
+    "evidence": [
+      "...South End Expansion: Success of South End is driving development interest in adjacent areas including Remount Road, Clanton Road, and the Scaleybark neighborhood. These corridors are natural extensions of the South End growth pattern and should be evaluated for complementary zoning..."
+    ]
+  },
+  {
+    "corridor": "North Davidson",
+    "total_score": 18,
+    "avg_score": 18.0,
+    "num_mentions": 1,
+    "timeline": "unspecified",
+    "documents": [
+      {
+        "name": "Unified Development Ordinance Amendment Package 2024-08",
+        "date": "2024-09-20",
+        "score": 18
+      }
+    ],
+    "evidence": [
+      "...and consistent with our arts district strategy, staff proposes extending NoDa zoning provisions to include properties along 36th Street from North Davidson to North Tryon Street. This would promote mixed-use development with arts/creative space requirements and encourage the district's or..."
+    ]
+  }
+]
