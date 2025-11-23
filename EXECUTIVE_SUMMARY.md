@@ -6,23 +6,7 @@
 
 ---
 
-## Why 10× More Valuable
-
-**Customer Pain Point (from interviews):**
-"Off-Market Land Discovery: Customers urgently need early access to potential land opportunities before they reach the public market."
-
-**This Solution:**
-- ✓ Identifies opportunities before broader market awareness
-- ✓ Focuses on municipal-led rezonings (customer-identified "strong opportunity")
-- ✓ Provides infrastructure investment signals (addresses utility visibility pain)
-- ✓ Enables land acquisition at pre-market-awareness pricing (15-30% savings)
-
-**Competitive Advantage:**
-First-mover positioning on 6-18 month horizon opportunities that competitors won't discover until formal petitions.
-
----
-
-## Technical Approach (3 Key Decisions)
+## Technical Approach 
 
 ### 1. NLP-Based Signal Detection Over Machine Learning for MVP
 Text pattern matching extracts corridor mentions from planning documents, then scores them based on surrounding policy language intensity ("strategic corridor", "encourage development" = high signal; "consider", "evaluate" = medium signal). This approach delivers immediate value without requiring historical training data and provides transparent, explainable predictions that customers can validate against source documents. Machine learning would be Phase 2 after accumulating labeled data from actual rezoning outcomes.
@@ -41,7 +25,7 @@ POC designed with production in mind: modular components (extraction → analysi
 
 ---
 
-## Business Case (One Paragraph)
+## Business Case 
 
 This Municipal Rezoning Tracker directly solves LotPotential customers' #1 pain point off-market land discovery by providing 6-18 month lead time on municipal rezoning opportunities before broader market awareness. Real estate developers interviewed cited urgent need for early signal access; this tracker delivers that through automated analysis of public planning documents that are systematically under-analyzed by the market. The customer ROI is immediate and substantial: early land acquisition at pre-announcement pricing typically saves 15-30% on land costs, meaning a single $2M land deal generates $300K-600K in value enough to pay for 20+ years of subscription. With a target price of $750-1,500/month (comparable to existing tools like CoStar at $500-2,000/month), reaching just 20 customers yields $30K MRR within 6 months. The feature differentiates LotPotential by focusing on municipal-led rezonings rather than developer petitions a "strong opportunity" identified in customer interviews that "unlocks entirely new development corridors for multiple players" simultaneously. Expansion path is clear: validate in Charlotte (Phase 1), scale to top 10 Sunbelt metros where growth is fastest (Phase 2), add historical pattern matching to predict approval probability (Phase 3), and integrate parcel-level recommendations for specific acquisition targets (Phase 4). The competitive moat strengthens over time through network effects more customers provide more validation data, improving prediction accuracy and creating switching costs as the tracker becomes embedded in daily workflow.
 
@@ -49,7 +33,7 @@ This Municipal Rezoning Tracker directly solves LotPotential customers' #1 pain 
 
 ## Time Invested
 
-**~3.5 hours** (Requirements analysis, algorithm development, testing, documentation)
+**~4 hours** (Requirements analysis, algorithm development, testing, documentation)
 
 ---
 
