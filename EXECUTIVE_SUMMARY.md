@@ -47,23 +47,6 @@ This tracker solves the #1 customer pain point—off-market discovery—by provi
 
 ---
 
-## POC Results Summary
-
-**Analysis:** 5 planning documents (1,300 words)  
-**Output:** 18 ranked rezoning corridors with scores, timelines, and evidence
-
-**Top 3 Opportunities:**
-1. **North Tryon Street** (Score: 118) - TOD focus + sewer expansion commitment
-2. **Independence Boulevard** (Score: 91) - BRT investment + TOD overlay expansion  
-3. **Central Avenue** (Score: 62, Immediate timeline) - Vision plan refresh underway
-
-**Key Insights Generated:**
-- 8 corridors with immediate/near-term timelines (highest priority)
-- Infrastructure investments (sewer, water, transit) correlate with rezoning signals
-- Policy language analysis reveals certainty level ("will", "immediate", "priority")
-
----
-
 ## Time Invested
 
 **~3.5 hours** (Requirements analysis, algorithm development, testing, documentation)
