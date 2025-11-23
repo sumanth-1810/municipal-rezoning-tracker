@@ -167,70 +167,12 @@ opportunities = tracker.analyze_documents(documents)
 
 ---
 
-## Business Case
-
-### Value Proposition
-
-- **Savings:** Early land acquisition at 15-30% below post-announcement prices
-- **Time savings:** 20+ hours/week of manual document review eliminated
-- **Deal flow:** 3-5× more opportunities to evaluate
-
-### Target Market
-
-Real estate developers, land brokers, fund managers who need:
-- Off-market discovery (urgent need from customer interviews)
-- Municipal rezoning intelligence (vs. developer petitions)
-- Infrastructure investment signals
-
-### Pricing
-
-$750-1,500/month (comparable to CoStar/LoopNet)
-
-**ROI Example:** Saving 20% on a $2M land deal pays for 24 months of subscription.
-
-### Expansion Path
-
-1. **Phase 1:** Charlotte (proof-of-concept) ✅
-2. **Phase 2:** Top 10 Sunbelt metros (Austin, Nashville, Raleigh...)
-3. **Phase 3:** Historical pattern matching (predict approval probability)
-4. **Phase 4:** Parcel-level recommendations (specific acquisition targets)
-
-**Target:** 20 customers = $30K MRR within 6 months
-
----
-
-## Production Roadmap
-
-### Immediate Next Steps (Week 1-2)
-1. Automate Charlotte document collection (Legistar API)
-2. Add change detection (alert when new documents published)
-3. Expand keyword dictionary based on real terminology
-
-### Near-Term (Month 1-3)
-1. Historical validation (compare predictions to actual 2020-2024 rezonings)
-2. Competitive intelligence layer (track developer activity)
-3. Parcel-level integration (identify specific parcels in high-probability corridors)
-4. Alert/notification system
-
-### Medium-Term (Month 4-6)
-1. Expand to 3-5 additional cities
-2. Machine learning model for approval probability
-3. API for LotPotential platform integration
-4. Mobile alerts for time-sensitive signals
-
----
-
 ## Technical Details
 
 ### Stack
 - **Language:** Python 3.9+
 - **Core Libraries:** pandas (data analysis), built-in regex (text processing)
 - **Optional:** PyPDF2 (PDF extraction)
-
-### Performance
-- **Analysis speed:** ~1 second per document
-- **Memory:** Lightweight (< 100MB for typical workload)
-- **Scalability:** Designed for 100s of documents per city
 
 ---
 
@@ -244,20 +186,13 @@ $750-1,500/month (comparable to CoStar/LoopNet)
 **Differentiation Insight:**
 > "Municipal vs Developer-Led Rezoning: There is a strong opportunity to differentiate by focusing on municipally-driven rezonings, which can unlock entirely new development corridors for multiple players."
 
-### Evidence from Sample Analysis
-
-- 6-18 month lead time before formal rezoning petitions
-- City documents are public but under-analyzed
-- Infrastructure commitments indicate genuine intent
-- Multiple document mentions = coordinated planning
-
 ---
 
 ## Time Invested
 
-**Total: ~3.5 hours**
-- Requirements analysis: 30 min
-- Core algorithm development: 90 min
+**Total: ~4 hours**
+- Requirements analysis: 60 min
+- Core algorithm development: 60 min
 - Sample document creation: 45 min
 - Testing and refinement: 30 min
 - Documentation: 45 min
